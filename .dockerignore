@@ -1,0 +1,10 @@
+Dockerfile
+bin
+*.md
+bash
+dmage
+install
+.idea
+.dockerignore
+.gitignore
+.git
